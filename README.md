@@ -16,4 +16,4 @@ public class OperadoresLogicos {
         System.out.println(!true);
         System.out.println(!false);
     } // Fin del método main
-} // Fin de la clase OperadoresLogicosA
+} // Fin de la clase OperadoresLogicos
