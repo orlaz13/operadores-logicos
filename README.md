@@ -1,4 +1,3 @@
-[OperadoresLogicos.java](https://github.com/user-attachments/files/33062782/OperadoresLogicos.java)
 public class OperadoresLogicos {
     public static void main(String[] args) {
         System.out.println("Operador AND (&&):");
