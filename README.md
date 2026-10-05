@@ -1,4 +1,4 @@
-operadores logicos
+[OperadoresLogicos.java](https://github.com/user-attachments/files/33062782/OperadoresLogicos.java)
 public class OperadoresLogicos {
     public static void main(String[] args) {
         System.out.println("Operador AND (&&):");
@@ -17,4 +17,4 @@ public class OperadoresLogicos {
         System.out.println(!true);
         System.out.println(!false);
     } // Fin del método main
-} // Fin de la clase OperadoresLogicosA
+} // Fin de la clase OperadoresLogicos
